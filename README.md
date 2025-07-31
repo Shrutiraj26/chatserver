@@ -1,6 +1,6 @@
 # chatserver
 This is a simple chat server application built using Java Swing for the GUI and Sockets for client-server communication. It enables real-time text-based communication between multiple clients through a server.
-#Features
+# Features
 Real-Time Messaging: Supports two-way communication between the server and clients.
 Multi-Client Support: Multiple clients can connect to the server simultaneously.
 User-Friendly GUI: Built using Java Swing for a clean and responsive interface.
